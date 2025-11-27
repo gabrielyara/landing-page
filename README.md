@@ -50,8 +50,7 @@ website/
 ├── package.json             # Dependências do projeto
 ├── package-lock.json        # Lock file de dependências
 ├── next.config.js           # Configuração do Next.js
-├── index.html               # HTML original (legado)
-└── README.md                # Este arquivo
+└── index.html               # HTML original (legado)
 ```
 
 ## 🎨 Componentes
