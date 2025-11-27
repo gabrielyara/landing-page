@@ -40,7 +40,7 @@ export default function Home() {
 
         <section id="menu" className="menu">
           <h2>Menu</h2>
-          <div className="menu-grid">{/* placeholder menu boxes */}
+          <div className="menu-grid">
             <div className="menu-box"><img src="/img/coffee1.jpg" alt="coffee" /><h3>Expresso</h3></div>
             <div className="menu-box"><img src="/img/coffee2.jpg" alt="coffee" /><h3>Latte</h3></div>
             <div className="menu-box"><img src="/img/coffee3.jpg" alt="coffee" /><h3>Cappuccino</h3></div>
@@ -61,3 +61,4 @@ export default function Home() {
     </>
   )
 }
+
